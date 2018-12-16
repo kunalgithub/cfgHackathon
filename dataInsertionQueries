@@ -1,0 +1,2 @@
+db.Fintechs.Dropdowns.update({},{$set:{"primaryTaxonamy1":["Analytics","Artificial Intelligence ","Automation","Blockchain","Cloud","Collaborative","Human-Computer Interaction","Immersive Media","Internet of Things","Mobile & Social","Proximity Tech","Qua
+ntum Computing ","Security","Voice Assistants"]}})
