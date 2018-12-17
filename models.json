@@ -1,0 +1,131 @@
+{
+  "name": "",
+  "Contact": {
+    "Name": {
+      "type": "text",
+      "value": ""
+    },
+    "Role": {
+      "type": "text",
+      "value": ""
+    },
+    "Phone": {
+      "type": "text",
+      "value": ""
+    },
+    "Email": {
+      "type": "text",
+      "value": ""
+    },
+    "Notes": {
+      "type": "textarea",
+      "value": ""
+    }
+  },
+  "System": {
+    "editable": "false",
+    "Creation Date": {
+      "type": "text",
+      "value": ""
+    },
+    "Created By": {
+      "type": "text",
+      "value": ""
+    },
+    "Last Modify Date": {
+      "type": "text",
+      "value": ""
+    },
+    "Last Modify User": {
+      "type": "text",
+      "value": ""
+    }
+  },
+  "Entity": {
+    "Name": {
+      "type": "text",
+      "value": ""
+    },
+    "Description": {
+      "type": "text",
+      "value": ""
+    },
+    "Type": {
+      "type": "dropdown",
+      "value": "",
+      "reference": "types"
+    },
+    "Phone": {
+      "type": "text",
+      "value": ""
+    },
+    "Fax": {
+      "type": "text",
+      "value": ""
+    },
+    "Website": {
+      "type": "text",
+      "value": ""
+    },
+    "Street Address 2": {
+      "type": "text",
+      "value": ""
+    },
+    "Street Address 1": {
+      "type": "text",
+      "value": ""
+    },
+    "City": {
+      "type": "text",
+      "value": ""
+    },
+    "State": {
+      "type": "dropdown",
+      "value": "",
+      "reference": "states"
+    },
+    "Zip Code": {
+      "type": "text",
+      "value": ""
+    },
+    "Country": {
+      "type": "dropdown",
+      "value": "",
+      "reference": "country"
+    },
+    "Number of Employees": {
+      "type": "dropdown",
+      "value": "",
+      "reference": "employeeSize"
+    },
+    "Year Founded": {
+      "type": "text",
+      "value": ""
+    },
+    "Primary Technology Taxonomy Level 1": {
+      "type": "dropdown",
+      "value": "",
+      "reference": "primaryTaxonamy1"
+    },
+    "Primary Technology Taxonomy Level 2": {
+      "type": "dropdown",
+      "value": "",
+      "reference": "primaryTaxonamy2"
+    },
+    "Secondary Technology Taxonomy Level 1": {
+      "type": "dropdown",
+      "value": "",
+      "reference": "secondaryTaxonamy1"
+    },
+    "Secondary Technology Taxonomy Level 2": {
+      "type": "dropdown",
+      "value": "",
+      "reference": "secondaryTaxonamy2"
+    },
+    "Stage of Engagement": {
+      "type": "dropdown",
+      "value": "",
+      "reference": "stageEngagement"
+    }
+  }
+}
