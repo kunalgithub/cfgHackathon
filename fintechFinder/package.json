@@ -1,0 +1,28 @@
+{
+  "name": "react-49vg63",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-router-dom": "4.2.2",
+    "react-search-field": "^1.0.0",
+    "react-transition-group": "1.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
